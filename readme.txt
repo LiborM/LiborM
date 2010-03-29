@@ -1,3 +1,3 @@
 My first project with Git
 
-www.liborm.info
+http://www.liborm.info
